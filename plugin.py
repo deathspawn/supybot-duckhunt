@@ -26,6 +26,8 @@
 # ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 # POSSIBILITY OF SUCH DAMAGE.
 ###
+#testing
+#testing
 
 from supybot.commands import *
 import supybot.plugins as plugins
